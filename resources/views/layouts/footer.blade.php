@@ -52,6 +52,8 @@
             </form>
         </div>
     </div>
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v23.0"></script>
     <!-- Search model end -->
 
     <!-- Js Plugins -->
@@ -63,4 +65,5 @@
     <script src="{{ asset('assets/js/jquery.slicknav.js') }}"></script>
     <script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
     <script src="{{ asset('assets/js/main.js') }}"></script>
+    <script src="https://discord.com/api/guilds/1402516277473443851/widget.json"></script>
 </body>

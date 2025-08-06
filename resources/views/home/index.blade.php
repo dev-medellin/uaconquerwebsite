@@ -61,6 +61,7 @@
                         <h5>Discord</h5>
                     </div>
                     <div class="ip-item">
+                        <iframe src="https://discord.com/widget?id=1402516277473443851&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     </div>
                 </div>
 
@@ -69,6 +70,7 @@
                         <h5>Facebook</h5>
                     </div>
                     <div class="ip-item">
+<div class="fb-page" data-href="https://www.facebook.com/uaconquerpvp/" data-tabs="timeline" data-width="500" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/uaconquerpvp/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/uaconquerpvp/">UAConquer</a></blockquote></div>
                     </div>
                 </div>
 
