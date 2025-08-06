@@ -70,7 +70,7 @@
                         <h5>Facebook</h5>
                     </div>
                     <div class="ip-item">
-<div class="fb-page" data-href="https://www.facebook.com/uaconquerpvp/" data-tabs="timeline" data-width="500" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/uaconquerpvp/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/uaconquerpvp/">UAConquer</a></blockquote></div>
+                        <div class="fb-page" data-href="https://www.facebook.com/uaconquerpvp/" data-tabs="timeline" data-width="500" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/uaconquerpvp/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/uaconquerpvp/">UAConquer</a></blockquote></div>
                     </div>
                 </div>
 
